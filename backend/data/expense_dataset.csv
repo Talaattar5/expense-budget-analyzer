@@ -1,0 +1,351 @@
+description,category
+Lunch at university cafeteria,Food
+Dinner at a restaurant,Food
+Coffee from Starbucks,Food
+Burger meal,Food
+Pizza delivery,Food
+Groceries from supermarket,Food
+Breakfast at a cafe,Food
+Bought fruits and vegetables,Food
+Ordered sushi,Food
+Chicken meal,Food
+Bought bread and milk,Food
+Ice cream purchase,Food
+Dinner with friends,Food
+Coffee shop payment,Food
+Bought snacks,Food
+Lunch from McDonalds,Food
+Grocery shopping,Food
+Restaurant dinner,Food
+Food delivery order,Food
+Bought groceries,Food
+Sandwich for lunch,Food
+Coffee and cake,Food
+Restaurant breakfast,Food
+Supermarket food purchase,Food
+Pizza restaurant bill,Food
+Takeaway dinner,Food
+Fast food meal,Food
+Fresh vegetables purchase,Food
+Bakery purchase,Food
+Lunch delivery,Food
+Bought chocolate and snacks,Food
+Dinner takeaway,Food
+Meal from cafeteria,Food
+Coffee before class,Food
+Bought chicken from supermarket,Food
+Breakfast delivery,Food
+Restaurant lunch,Food
+Bought juice and snacks,Food
+Grocery store payment,Food
+Ordered burgers,Food
+Bought milk and cereal,Food
+Cafe breakfast,Food
+Food court meal,Food
+Bought frozen food,Food
+Restaurant payment,Food
+Ordered dinner online,Food
+Bought fruit from market,Food
+Coffee with friends,Food
+Lunch meal,Food
+Dinner delivery,Food
+Uber ride to university,Transportation
+Taxi to airport,Transportation
+Bus ticket to campus,Transportation
+Fuel for my car,Transportation
+Gas station payment,Transportation
+Train ticket,Transportation
+Careem ride home,Transportation
+Car parking fee,Transportation
+Public transportation ticket,Transportation
+Taxi ride downtown,Transportation
+Bus fare,Transportation
+Car fuel,Transportation
+Uber trip home,Transportation
+Airport taxi,Transportation
+Parking payment,Transportation
+Metro ticket,Transportation
+Ride sharing payment,Transportation
+Transportation to work,Transportation
+Paid highway toll,Transportation
+Fuel station purchase,Transportation
+Taxi to university,Transportation
+Uber to work,Transportation
+Bus ride home,Transportation
+Train fare,Transportation
+Monthly transport pass,Transportation
+Parking at mall,Transportation
+Gasoline purchase,Transportation
+Taxi fare,Transportation
+Careem trip,Transportation
+Metro ride,Transportation
+Bus transportation,Transportation
+Airport transportation,Transportation
+Fuel refill,Transportation
+Car parking,Transportation
+Highway toll payment,Transportation
+Uber airport ride,Transportation
+Taxi home,Transportation
+Public bus ticket,Transportation
+Train transportation,Transportation
+Petrol payment,Transportation
+Parking garage payment,Transportation
+Ride to campus,Transportation
+Uber downtown,Transportation
+Bus pass,Transportation
+Taxi transportation,Transportation
+Fuel expense,Transportation
+Metro pass,Transportation
+Careem to university,Transportation
+Airport bus,Transportation
+Car fuel refill,Transportation
+Bought new shoes,Shopping
+Bought new clothes,Shopping
+Purchased headphones,Shopping
+Bought laptop accessories,Shopping
+Online shopping order,Shopping
+Bought a new bag,Shopping
+Purchased phone case,Shopping
+Shopping at clothing store,Shopping
+Bought perfume,Shopping
+Bought a new watch,Shopping
+Purchased sunglasses,Shopping
+Bought a jacket,Shopping
+Bought cosmetics,Shopping
+Online electronics purchase,Shopping
+Bought new jeans,Shopping
+Purchased keyboard,Shopping
+Bought phone charger,Shopping
+Shopping at mall,Shopping
+Bought backpack,Shopping
+Purchased home decorations,Shopping
+Bought a shirt,Shopping
+Purchased new mouse,Shopping
+Bought makeup,Shopping
+Bought trousers,Shopping
+Purchased electronics,Shopping
+Bought new headphones,Shopping
+Clothes shopping,Shopping
+Bought handbag,Shopping
+Purchased shoes online,Shopping
+Bought accessories,Shopping
+Mall shopping,Shopping
+Purchased a dress,Shopping
+Bought computer mouse,Shopping
+Online clothing purchase,Shopping
+Bought skincare products,Shopping
+Purchased new wallet,Shopping
+Bought home accessories,Shopping
+Shopping website order,Shopping
+Bought new sneakers,Shopping
+Purchased phone accessories,Shopping
+Bought electronics online,Shopping
+Clothing store purchase,Shopping
+Bought new keyboard,Shopping
+Purchased headphones online,Shopping
+Bought fashion accessories,Shopping
+New bag purchase,Shopping
+Bought cosmetics online,Shopping
+Purchased laptop charger,Shopping
+Bought a coat,Shopping
+Online shopping payment,Shopping
+University tuition payment,Education
+Bought programming course,Education
+Paid for online course,Education
+Purchased university textbook,Education
+Exam registration fee,Education
+Bought study materials,Education
+Python course subscription,Education
+Paid university fees,Education
+Bought mathematics book,Education
+Training course payment,Education
+English course fee,Education
+Bought engineering textbook,Education
+Certification exam fee,Education
+Online learning subscription,Education
+Bought notebooks for university,Education
+Laboratory fee,Education
+Course registration payment,Education
+Purchased educational software,Education
+Bought lecture notes,Education
+Training workshop payment,Education
+University registration fee,Education
+Bought programming textbook,Education
+Online training course,Education
+Paid semester tuition,Education
+Education course payment,Education
+Study book purchase,Education
+Exam fee,Education
+University course fee,Education
+Bought educational materials,Education
+Paid for coding course,Education
+Certification training,Education
+Academic book purchase,Education
+University lab payment,Education
+Course enrollment fee,Education
+Paid for language course,Education
+Learning platform subscription,Education
+Bought course materials,Education
+College tuition payment,Education
+Programming class fee,Education
+Online class subscription,Education
+Study guide purchase,Education
+University exam payment,Education
+Training seminar fee,Education
+Bought academic textbook,Education
+Education subscription,Education
+College registration payment,Education
+Paid for workshop,Education
+Bought university books,Education
+Course tuition payment,Education
+Learning materials purchase,Education
+Netflix subscription,Entertainment
+Cinema ticket,Entertainment
+Video game purchase,Entertainment
+Spotify subscription,Entertainment
+Concert ticket,Entertainment
+Bowling with friends,Entertainment
+Movie rental,Entertainment
+Gaming subscription,Entertainment
+Theme park ticket,Entertainment
+Streaming subscription,Entertainment
+PlayStation game purchase,Entertainment
+Cinema with friends,Entertainment
+Music subscription,Entertainment
+Entertainment event ticket,Entertainment
+Arcade games,Entertainment
+Bought movie ticket,Entertainment
+Gaming platform subscription,Entertainment
+Streaming movie service,Entertainment
+Concert entrance fee,Entertainment
+Amusement park visit,Entertainment
+Disney Plus subscription,Entertainment
+Movie theater ticket,Entertainment
+Bought video game,Entertainment
+Music streaming payment,Entertainment
+Concert payment,Entertainment
+Bowling game,Entertainment
+Online game purchase,Entertainment
+Cinema payment,Entertainment
+Streaming service bill,Entertainment
+Gaming purchase,Entertainment
+Theme park entrance,Entertainment
+Movie streaming subscription,Entertainment
+Music concert,Entertainment
+Arcade payment,Entertainment
+Game subscription,Entertainment
+Cinema snacks and movie,Entertainment
+Entertainment subscription,Entertainment
+Online gaming service,Entertainment
+Movie night ticket,Entertainment
+Music service subscription,Entertainment
+Concert booking,Entertainment
+Amusement park ticket,Entertainment
+Gaming membership,Entertainment
+Streaming platform payment,Entertainment
+Movie rental payment,Entertainment
+Video game subscription,Entertainment
+Cinema entrance,Entertainment
+Music app subscription,Entertainment
+Entertainment event,Entertainment
+Game purchase online,Entertainment
+Electricity bill,Bills
+Water bill,Bills
+Internet bill,Bills
+Phone bill,Bills
+Monthly mobile bill,Bills
+Home internet payment,Bills
+Electricity payment,Bills
+Utility bill,Bills
+WiFi bill,Bills
+Monthly phone subscription,Bills
+Gas bill,Bills
+Home electricity bill,Bills
+Mobile data bill,Bills
+Monthly internet subscription,Bills
+Water utility payment,Bills
+Telephone bill,Bills
+Home utilities payment,Bills
+Internet service payment,Bills
+Monthly electricity payment,Bills
+Mobile plan payment,Bills
+Paid electricity invoice,Bills
+Paid water invoice,Bills
+Home WiFi payment,Bills
+Monthly utility payment,Bills
+Internet provider bill,Bills
+Mobile phone payment,Bills
+Electric company bill,Bills
+Water company payment,Bills
+Monthly broadband bill,Bills
+Phone service bill,Bills
+Utility company payment,Bills
+Gas utility payment,Bills
+Home phone bill,Bills
+Internet subscription bill,Bills
+Monthly WiFi payment,Bills
+Electric utility payment,Bills
+Water service bill,Bills
+Mobile subscription payment,Bills
+Broadband payment,Bills
+Monthly utilities,Bills
+Electric bill payment,Bills
+Phone plan bill,Bills
+Internet monthly payment,Bills
+Home water bill,Bills
+Utility invoice,Bills
+Paid mobile bill,Bills
+WiFi subscription,Bills
+Gas service bill,Bills
+Telephone service payment,Bills
+Home utility bill,Bills
+Haircut,Other
+Doctor appointment,Other
+Gift for friend,Other
+Donation,Other
+Pet supplies,Other
+Laundry service,Other
+Pharmacy purchase,Other
+Home cleaning service,Other
+Repair service,Other
+Miscellaneous expense,Other
+Bought flowers,Other
+Passport photos,Other
+Car key replacement,Other
+Charity payment,Other
+Personal care service,Other
+Dry cleaning payment,Other
+Home repair payment,Other
+Veterinary visit,Other
+Medical supplies,Other
+Unexpected expense,Other
+Hair salon payment,Other
+Dentist appointment,Other
+Birthday gift,Other
+Charity donation,Other
+Pet food purchase,Other
+Laundry payment,Other
+Medicine purchase,Other
+House cleaning,Other
+Phone repair,Other
+General expense,Other
+Barber payment,Other
+Medical appointment,Other
+Gift purchase,Other
+Pet care,Other
+Dry cleaning,Other
+Home maintenance,Other
+Doctor visit,Other
+Pharmacy medicine,Other
+Repair payment,Other
+Personal expense,Other
+Salon visit,Other
+Dental treatment,Other
+Bought present,Other
+Animal clinic visit,Other
+Cleaning service,Other
+Medical purchase,Other
+House repair,Other
+Donation payment,Other
+Personal care,Other
+Miscellaneous payment,Other
